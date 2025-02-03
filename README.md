@@ -33,6 +33,8 @@ Files are csv formatted with the following structure (includes headers):
 | 0.01         | 0.003        |
 | ...          | ...          |
 
+They can be generated with the attached `data_gen.py` file. They are already populated so that the sum of all samples is 10,000.
+
 ## References
 
 - [NACA Airfoil Wiki page](https://en.wikipedia.org/wiki/NACA_airfoil)
