@@ -13,7 +13,7 @@ Just a file for understanding the airfoil data.
 ![airfoil shape](image.png)
 The airfoil boundary is defined by the following formula:
 $$y = 5t[0.2969\sqrt{x}-0.1260x-0.3516x^2+0.2843x^3-0.1015x^4]$$
-where, $t\in[0,1]$ controls the thickness and $x\in[0,1]$ is the parameter indicating the span (horizontal length) of the wing.
+,where $t\in[0,1]$ controls the thickness and $x\in[0,1]$ is the parameter indicating the span (horizontal length) of the wing.
 
 The formula gives only the top half of the boundary. For symmetric wings, we just invert the top half for the bottom half.
 
